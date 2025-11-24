@@ -31,10 +31,10 @@ The brain behind this system is a **Random Forest Classifier** - a fancy way of 
 
 ```text
 Loan_Approval_System/
-├── data/
+├── data
 │   └── loan_data.csv        # Historical loan data we learn from
-├── models/                  # Where the trained AI model lives
-├── src/
+├── models                  # Where the trained AI model lives
+├── src
 │   ├── config.py           # Settings and file paths
 │   ├── data_loader.py      # Grabs the data from CSV
 │   ├── preprocessing.py    # Cleans up and prepares the data
@@ -140,7 +140,7 @@ The Random Forest Classifier achieves:
 → Check that all dependencies are installed: `pip install -r requirements.txt`
 
 **Weird predictions?**  
-→ Ensure `loan_data.csv` is in the `data/` folder
+→ Ensure `loan_data.csv` is in the `data` folder
 
 ## 📝 Usage Example
 
@@ -160,7 +160,7 @@ Credit History (1.0 for good, 0.0 for bad): 1.0
 Property Area (Urban/Semiurban/Rural): Urban
 
 Prediction: ✅ Loan Approved!
-Confidence: 92.5%
+Confidence: 85%
 ```
 
 ## ⚠️ Disclaimer
