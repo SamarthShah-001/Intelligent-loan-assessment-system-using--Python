@@ -8,7 +8,7 @@ Ever wondered how banks decide whether to approve your loan? It's usually a pret
 
 I built this Machine Learning application to help automate loan approval decisions. Think of it as a helpful assistant that looks at things like your income, credit history, and education, then predicts whether your loan would likely be approved or rejected. No more waiting around wondering!
 
-The brain behind this system is a **Random Forest Classifier** - a fancy way of saying it's pretty darn accurate at making these predictions. And the best part? You can test it out yourself using a simple command-line interface. No complicated setup needed!
+The brain behind this system is a **Random Forest Classifier** - a fancy way of saying it's pretty accurate at making these predictions. And the best part? You can test it out yourself using a simple command-line interface. No complicated setup needed!
 
 ## ✨ Features
 
