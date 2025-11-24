@@ -1,8 +1,4 @@
-***
 
-### 2. statement.md
-
-```markdown
 # Project Statement: Loan Eligibility System
 
 ## 1. Problem Statement
